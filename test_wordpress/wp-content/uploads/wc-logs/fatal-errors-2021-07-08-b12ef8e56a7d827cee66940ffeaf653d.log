@@ -1,0 +1,169 @@
+2021-07-08T10:44:43+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:102
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\sh у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 102
+
+2021-07-08T10:47:28+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:103
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\sh у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 103
+
+2021-07-08T10:48:11+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:103
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\sh у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 103
+
+2021-07-08T10:49:43+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:103
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\sh у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 103
+
+2021-07-08T10:51:10+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:103
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\sh у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 103
+
+2021-07-08T10:52:13+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:103
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\sh у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 103
+
+2021-07-08T10:52:53+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:103
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\sh у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 103
+
+2021-07-08T10:53:44+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:103
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\sh у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 103
+
+2021-07-08T10:54:14+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:103
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\sh у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 103
+
+2021-07-08T10:55:16+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:103
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\sh у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 103
+
+2021-07-08T11:06:28+00:00 CRITICAL syntax error, unexpected end of file у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 143
+
+2021-07-08T11:07:20+00:00 CRITICAL syntax error, unexpected end of file у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 143
+
+2021-07-08T11:08:28+00:00 CRITICAL syntax error, unexpected end of file у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 146
+
+2021-07-08T11:09:47+00:00 CRITICAL syntax error, unexpected end of file у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 146
+
+2021-07-08T11:11:21+00:00 CRITICAL syntax error, unexpected end of file у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 149
+
+2021-07-08T11:11:44+00:00 CRITICAL Uncaught Error: Call to a member function prepare() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:107
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\ у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 107
+
+2021-07-08T11:12:48+00:00 CRITICAL Uncaught Error: Call to a member function prepare() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php:104
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-includes\ у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 104
+
+2021-07-08T11:33:01+00:00 CRITICAL Uncaught Error: Call to a member function get_date_created() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\functions.php:134
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php(76): update_date_good_last_bye(14, NULL)
+#1 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(17)
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-c у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\functions.php доступно 134
+
+2021-07-08T11:51:48+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php доступно 73
+
+2021-07-08T12:24:21+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on null in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\functions.php:141
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-includes\class-wp-hook.php(294): update_date_good_last_bye_2(21)
+#1 D:\OpenServer\domains\test_wordpress\www\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\data-stores\class-wc-order-data-store-cpt.php(88): do_action('woocommerce_new...', 21, Object(WC_Order))
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(169): WC_Order_Data_Store_CPT->create(Object(WC_Order))
+#5 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(187): WC_Data_Store->create(Object(WC_Order))
+#6 D:\OpenSe у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\functions.php доступно 141
+
+2021-07-08T12:32:21+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on string in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\functions.php:141
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-includes\class-wp-hook.php(292): update_date_good_last_bye_2(23)
+#1 D:\OpenServer\domains\test_wordpress\www\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php(94): do_action('woocommerce_tha...', 23)
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\OpenServer\\d...')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#6 D:\OpenServer\domains\test_wordpress\www\wp- у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\functions.php доступно 141
+
+2021-07-08T12:33:23+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on string in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\functions.php:141
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-includes\class-wp-hook.php(292): update_date_good_last_bye_2(23)
+#1 D:\OpenServer\domains\test_wordpress\www\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php(94): do_action('woocommerce_tha...', 23)
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\OpenServer\\d...')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#6 D:\OpenServer\domains\test_wordpress\www\wp-co у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\functions.php доступно 141
+
+2021-07-08T12:35:37+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on string in D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\functions.php:141
+Stack trace:
+#0 D:\OpenServer\domains\test_wordpress\www\wp-includes\class-wp-hook.php(292): update_date_good_last_bye_2(23)
+#1 D:\OpenServer\domains\test_wordpress\www\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 D:\OpenServer\domains\test_wordpress\www\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\woocommerce\checkout\thankyou.php(94): do_action('woocommerce_tha...', 23)
+#4 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\OpenServer\\d...')
+#5 D:\OpenServer\domains\test_wordpress\www\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#6 D:\OpenServer\domains\test_wordpress\www\wp- у D:\OpenServer\domains\test_wordpress\www\wp-content\themes\storefront-child\functions.php доступно 141
+
